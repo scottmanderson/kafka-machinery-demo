@@ -1,5 +1,5 @@
 {
-    "machineId": 1,
+    "machineId": 3,
     "name": "charlie",
     "model": "fasthorse",
     "meanThroughput": 120, 
