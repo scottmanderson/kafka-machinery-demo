@@ -1,0 +1,6 @@
+{
+    "bootstrapServers":  "35.208.44.30:9092",
+    "topic": "machines",
+    "consumerGroupId": "flock1",
+    "autoOffsetReset": "earliest"
+}

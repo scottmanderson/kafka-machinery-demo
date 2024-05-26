@@ -1,0 +1,4 @@
+{
+    "bootstrapServers": "35.208.44.30:9092",
+    "topic": "answers_test"
+}

@@ -1,0 +1,11 @@
+{
+    "machineId": 1,
+    "name": "bravo",
+    "model": "steadyox",
+    "meanThroughput": 100, 
+    "stdevThroughput": 5, 
+    "meanTemperature": 25,
+    "stdevTemperature": 2,
+    "bootstrapServers": "35.208.44.30:9092",
+    "topic": "machines"
+}
